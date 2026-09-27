@@ -1,0 +1,5 @@
+*.db
+cotacao.txt
+*.exe
+*.test
+.DS_Store
